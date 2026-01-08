@@ -58,6 +58,7 @@
 ```bash
 git clone <URL_репозитория>
 cd easyspeak
+```
 
 ### 3. Запуск проекта
 
